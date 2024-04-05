@@ -1,0 +1,18 @@
+.btn {
+    -fx-font: oblique bold 20px monospace;
+    -fx-border-color: red;
+    -fx-border-style: dashed;
+    -fx-border-radius: 30px;
+    -fx-margin-height: 100px;
+    -fx-border-width: 2px;
+    -fx-background-color: #00aced;
+}
+
+.BTN {
+    -fx-font-style: normal;
+    -fx-font-size: 20px;
+    -fx-font-family: sans-serif;
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+    -fx-background-color: #00aced;
+}

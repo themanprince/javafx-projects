@@ -1,0 +1,14 @@
+.label {
+    -fx-font-size: 15px;
+}
+
+.root {
+    -fx-background-color: pink;
+}
+
+.button {
+    -fx-background-color: aqua;
+    -fx-font-family: algerian;
+    -fx-font-size: 12px;
+    -fx-fill-height: 50px;
+}

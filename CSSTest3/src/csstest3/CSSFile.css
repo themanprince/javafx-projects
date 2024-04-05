@@ -1,0 +1,28 @@
+//defining my color
+.root{
+    thecolor: cyan;
+}
+
+
+.lab1 {
+    -fx-background-color: crimson;
+    -fx-font-style: oblique;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-font-family: algerian;
+    }
+
+.lab2 {
+    -fx-background-color: #f34c1a;
+    -fx-font-style: normal;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-font-family: sans-serif;
+}
+.lab3{
+    -fx-background-color: thecolor;
+    -fx-font-style: italic;
+    -fx-font-weight: bold;
+    -fx-font-size: 20px;
+    -fx-font-family: serif;
+}

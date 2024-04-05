@@ -1,0 +1,14 @@
+.text-field{
+    -fx-font-size: 12px;
+    -fx-background-color: white;
+    -fx-font-color: black;
+    -fx-font-weight: 700;
+}
+.button {
+    -fx-font-size: 15px;
+    -fx-font-family: algerian;
+    -fx-background-color: green;
+}
+.root {
+    -fx-background-color: pink;
+}

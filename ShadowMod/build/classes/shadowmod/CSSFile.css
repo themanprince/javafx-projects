@@ -1,0 +1,10 @@
+.combo-box {
+    -fx-background-color: black;
+    -fx-font-family: algerian;
+    -fx-border-style: solid;
+    -fx-border-size: 3;
+    -fx-border-color: white;
+}
+.root{
+    -fx-background-color: pink;
+}

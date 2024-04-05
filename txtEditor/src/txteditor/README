@@ -1,0 +1,15 @@
+Hello, my name is Prince Adigwe and I have developed this software that allows you to create and edit files of any extension, depending on its contents.
+This means that this program can only open files with certain extensions. For example, files with text in them (except pdf files)
+can be opened with this program. this means that we can open your
+
+* Txt files
+* Java source files
+* C++ source files
+* Pascal source files
+* Extensionless (Files without file extensions but contain text in them)
+
+e.t.c
+
+Basically any text file can be opened with this program.
+
+The readme of this program was developed with the program itself and can only be opened with this program. *Smiling sheepishly*

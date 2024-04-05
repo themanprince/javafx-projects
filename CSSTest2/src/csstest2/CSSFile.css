@@ -1,0 +1,48 @@
+//the items of the first menu first
+#MOOne, #MOThree, #MOFive {
+    -fx-background-color: blue;
+    -fx-font-style: italic;
+    -fx-font-family: sans-serif;
+    -fx-font-size: 12pt;
+    -fx-font-weight: lighter;
+}
+
+#MOTwo, #MOFour {
+    -fx-background-color: red;
+    -fx-font-style: oblique;
+    -fx-font-family: algerian;
+    -fx-font-size: 12px;
+    -fx-font-weight: bolder;
+}
+
+//the items of the second menu
+#MTOne, #MTThree, #MTFive {
+    -fx-background-color: red;
+    -fx-font-style: oblique;
+    -fx-font-family: algerian;
+    -fx-font-weight: bolder;
+    -fx-font-size: 12px;
+}
+#MTTwo, #MTFour {
+    -fx-background-color: blue;
+    -fx-font-style: italic;
+    -fx-font-family: sans-serif;
+    -fx-font-size: 12pt;
+    -fx-font-weight: lighter;
+}
+
+//The items of the third menu
+
+#MThOne, #MThThree, #MThFive {
+    -fx-background-color: blue;
+    -fx-font-style: normal;
+    -fx-font-family: sans-serif;
+    -fx-font-size: 12pt;
+    -fx-font-weight: lighter;
+}
+#MThTwo, #MThFour {
+    -fx-background-color: red;
+    -fxfont-style: oblique;
+    -fx-font-family: algerian;
+    -fx-font-size: 12px;
+}

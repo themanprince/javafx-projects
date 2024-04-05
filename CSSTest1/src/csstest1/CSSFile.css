@@ -1,0 +1,20 @@
+.button-1 {
+-fx-font-style: italic;
+-fx-font-weight: 100;
+-fx-font-size: 15pt;
+-fx-font-family: algerian;
+}
+
+.button-2 {
+    -fx-font-style: oblique;
+    -fx-font-weight: bolder;
+    -fx-font-size: 20px;
+    -fx-font-family: serif;
+}
+
+.button-3 {
+    -fx-font-style: normal;
+    -fx-font-weight: normal;
+    -fx-font-size: 20pt;
+    -fx-font-family: sans-serif;
+}

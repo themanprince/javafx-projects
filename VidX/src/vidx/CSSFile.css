@@ -1,0 +1,13 @@
+.root{
+-fx-background-color: aqua;
+}
+
+.button{
+-fx-background-color: silver;
+-fx-font-family: algerian;
+}
+
+.label{
+-fx-font-size: 13px;
+-fx-font-family: algerian;
+}
